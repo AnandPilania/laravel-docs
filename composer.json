@@ -23,5 +23,6 @@
             "AP\\Docs\\": "src/"
         }
     },
-	"suggest": {}
+	"suggest": {},
+	"minimun-stability": "stable"
 }
