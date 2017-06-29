@@ -1,0 +1,27 @@
+{
+    "name": "anandpilania/laravel-docs",
+    "description": "Docs reader for laravel.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Anand Pilania",
+            "email": "pilaniaanand@gmail.com"
+        }
+    ],
+    "require": {
+		"illuminate/support": "5.*",
+		"illuminate/filesystem": "5.*",
+		"illuminate/http": "5.*",
+		"illuminate/routing": "5.*",
+		"illuminate/config": "5.*",
+		"league/commonmark": "0.15.*",
+		"symfony/browser-kit": "~3.3",
+		"erusev/parsedown-extra": "0.7.1"
+	},
+	"autoload": {
+        "psr-4": {
+            "AP\\Docs\\": "src/"
+        }
+    },
+	"suggest": {}
+}
