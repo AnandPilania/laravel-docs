@@ -2,6 +2,7 @@
     "name": "anandpilania/laravel-docs",
     "description": "Docs reader for laravel.",
     "license": "MIT",
+	"version": "1.0.0",
     "authors": [
         {
             "name": "Anand Pilania",
