@@ -1,6 +1,7 @@
 {
     "name": "anandpilania/laravel-docs",
     "description": "Docs reader for laravel.",
+	"keywords": ["laravel", "anandpilania", "docs-reader", "docs"],
     "license": "MIT",
 	"version": "1.0.0",
     "authors": [
